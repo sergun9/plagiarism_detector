@@ -1,0 +1,11 @@
+fastapi
+nltk
+PyPDF2
+Spire.Doc
+python-docx
+psycopg2-binary
+uvicorn
+python-multipart
+sqlalchemy
+asyncpg
+databases
